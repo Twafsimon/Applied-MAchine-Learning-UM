@@ -1,4 +1,4 @@
-# Applied-MAchine-Learning-UM
+# Applied-Machine-Learning-University of Michigan
 It is an introduction to Machine Learning provided by University of Michigan as a continuous course of Applied Data Science.
 What is machine learning?
 The field of machine learning involves using data to teach computers to learn and grow through time, much like humans do.

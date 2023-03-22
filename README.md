@@ -120,7 +120,7 @@ There are three types of machine learning algorithms:
 <li>Linear Discriminant Analysis (LDA)</li>
 <li>Sammon Mapping</li>
 <li>Multidimensional Scaling (MDS)</li>
-<li>Projection Pursuit</li>
+<li>Projection Pursuit</li></ol><br>
 
 
    Thanks to : Deepanshu tyagi<br>

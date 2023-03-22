@@ -123,6 +123,7 @@ There are three types of machine learning algorithms:
 <li>Projection Pursuit</li>
 
 
-   Thanks to : Deepanshu tyagi
-625 Followers
-Data Engineer | Hire me : https://www.fiverr.com/share/pPaVXE | Follow me: https://www.linkedin.com/in/deepanshu-tyagi1
+   Thanks to : Deepanshu tyagi<br>
+625 Followers<br>
+Data Engineer | Hire me : https://www.fiverr.com/share/pPaVXE |<br>
+ Follow me: https://www.linkedin.com/in/deepanshu-tyagi1
